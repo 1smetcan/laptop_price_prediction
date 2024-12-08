@@ -1,2 +1,2 @@
 # laptop_price_prediction
-Laptop price prediction using various regression models.
+In this project, I aim to predict laptop prices using Linear Regression by analyzing various features.
